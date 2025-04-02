@@ -1,0 +1,13 @@
+Wed Apr 02 2025 - Application started now ------ 
+Wed Apr 02 2025 - Application event occurred ------- 
+Wed Apr 02 2025 - Current memory usage: 50.81 
+Wed Apr 02 2025 - Current memory usage: 50.78 
+Wed Apr 02 2025 - Current memory usage: 50.84 
+Wed Apr 02 2025 - Current memory usage: 50.82 
+Wed Apr 02 2025 - Current memory usage: 50.76 
+Wed Apr 02 2025 - Current memory usage: 50.79 
+Wed Apr 02 2025 - Current memory usage: 50.85 
+Wed Apr 02 2025 - Current memory usage: 50.79 
+Wed Apr 02 2025 - Current memory usage: 50.79 
+Wed Apr 02 2025 - Current memory usage: 50.89 
+Wed Apr 02 2025 - Current memory usage: 50.84 
